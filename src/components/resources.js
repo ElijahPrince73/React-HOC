@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 export default () => {
   return (
     <div>
-      Super Special
+      Super Special recipe
       <ul>
         <li>test</li>
         <li>fsfs</li>
